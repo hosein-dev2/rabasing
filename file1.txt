@@ -1,1 +1,1 @@
-cntent of file1
+content of file1
